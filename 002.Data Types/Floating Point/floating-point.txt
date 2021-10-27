@@ -1,0 +1,4 @@
+Type            Storage size        Value range                 Precision 
+float           4 byte              1.2E-38 to 3.4E+38          6 decimal places 
+double          8 byte              2.3E-308 to 1.7E+308        15 decimal places 
+long double     10 byte             3.4E-4932 to 1.1E+4932      19 decimal places
