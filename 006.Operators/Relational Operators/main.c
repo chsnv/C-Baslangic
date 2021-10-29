@@ -14,7 +14,6 @@ int main()
   {
     printf("Line 1 - Value %d is not equal to %d\n", a, b);
   }
-
   if (a < b) // a < b
   {
     printf("Line 2 - Value %d is less than %d\n", a, b);
@@ -23,7 +22,6 @@ int main()
   {
     printf("Line 2 - Value %d is not less than %d\n", a, b);
   }
-
   if (a > b) // a > b
   {
     printf("Line 3 - Value %d is greater than %d\n", a, b);
