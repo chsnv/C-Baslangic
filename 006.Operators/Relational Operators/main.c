@@ -39,7 +39,7 @@ This value for check less and greater than operations
   {
     printf("Line 4 - Value %d is either less than or equal %d\n", a, b);
   }
-
+  b = 2;
   if (a >= b) // a >= b
   {
     printf("Line 5 - Value %d is either greather than or equal %d", a, b);
